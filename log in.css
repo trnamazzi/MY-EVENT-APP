@@ -1,0 +1,17 @@
+form{
+    text-align: center;
+    height: 250px; 
+    width: 300px;
+  /*  margin-left: 300px;*/
+    border: 1px solid black;
+    /* background-color: blue; */
+    background-color: burlywood;
+ }
+
+ body{
+    background-image: url(log\ in.webp);
+    background-size: cover;
+ }
+ 
+ 
+ 

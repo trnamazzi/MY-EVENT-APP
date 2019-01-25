@@ -1,0 +1,58 @@
+
+a{
+
+    text-decoration: none;
+    color: #fff;
+}
+
+ul li {
+    display: inline;
+    margin: 55px;
+    font-size: 20px
+}
+
+ul{
+background-color: rgb(128, 128, 128);
+}
+
+ul  li ul{
+    display: none;
+    margin-left: 300px;
+}
+
+
+
+ul li:hover ul{
+    display: grid;
+    position: absolute;
+}
+
+h1{
+    color:white;
+    text-align:center ;
+    font-size: 100px;
+
+}
+
+p{
+    text-align: center;
+    font-size: 50px;
+    
+}
+
+h1,p{
+    margin-top: 100px;
+    color:white;
+}
+
+body{
+    background-image: url(home6.JPG);
+    background-size: cover;
+}
+form{
+    text-align: center;
+    height: 500px; 
+    width: 200px;
+    margin-left: 300px;
+    border: 1px solid bl
+ }
